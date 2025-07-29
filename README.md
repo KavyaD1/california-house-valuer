@@ -13,7 +13,7 @@ This project predicts the **median house price** in California using user-provid
 -  Built using Streamlit for a clean and minimal UI
 
 ---
-
+---
 ##  How to Run Locally
 
 ### 1. Clone the Repository
@@ -30,15 +30,18 @@ pip install -r requirements.txt
 3. Run the App
 ```bash
 Copy code
-streamlit run app.py or python -m streamlit run app.py
-
+streamlit run app.py or python -m streamlit run app.py ##
+----
+----
 # Project Structure
 app.py              
 model.pkl            
 README.md            
 requirements.txt
 regression_model.py
+---
 
+---
    # Sample Inputs
 Median Income
 House Age
@@ -49,14 +52,17 @@ Average Occupancy
 Latitude
 Longitude
 And the app will predict the Median House Value.
+---
 
+---
 #Tech Stack
 Python
 scikit-learn
 pandas
 numpy
 Streamlit
-
+----
+----
 #streamlit
 https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/
 
