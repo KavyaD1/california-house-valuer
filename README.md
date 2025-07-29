@@ -8,9 +8,10 @@ This project estimates California house prices using machine learning and Stream
 👉 [Click here to try the app](https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
 
 ## 🧾 Project Structure
-california-house-Pricing
+ml/
 ├── regression_model.py
 ├── app.py
+├── model.pkl
 ├── README.md
 ├── requirements.txt
 
@@ -38,4 +39,10 @@ streamlit run app.py
 - Real-time predictions with minimal latency
 - Clean, responsive design for desktop and mobile
 
+## 🛠 Tech Stack
+
+- Python 🐍
+- Streamlit 📊
+- Scikit-Learn 🤖
+- Pandas & NumPy 📈
 
