@@ -4,7 +4,7 @@ This project predicts the **median house price** in California using user-provid
 
 ---
 
-   To run locally
+# To run locally
 
 1. Clone Repository
 ```bash
@@ -25,9 +25,9 @@ Alternatively:
 Copy code
 python -m streamlit run app.py
 
-🗂️Project Structure
-bash
-Copy code
+# Project Structure
+```bash
+
 📁 california-house-valuer/
 ├── app.py               # Streamlit app UI
 ├── model.pkl            # Trained ML model
@@ -36,7 +36,7 @@ Copy code
 └── regression_model.py  # Model training code
 
 
-🧪 Sample Inputs
+# Sample Inputs
 Provide the following values in the app:
 
 Median Income
@@ -51,7 +51,7 @@ Longitude
 And the app will predict the Median House Value 💵.
 
 
-Tech Stack
+# Tech Stack
 
 Python
 scikit-learn
@@ -59,5 +59,5 @@ pandas
 numpy
 Streamlit
 
- Live Demo
+ # Live Demo
 🔗 [Live App on Streamlit](https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
