@@ -32,51 +32,9 @@ pip install -r requirements.txt
 Copy code
 streamlit run app.py or python -m streamlit run app.py ##
 ----
-
-Project Structure
+🗂️ Project Structure
 bash
 Copy code
-app.py               # Streamlit app
-model.pkl            # Trained machine learning model
-README.md            # Project documentation
-requirements.txt     # List of dependencies
-regression_model.py  # Code for training the model
 
- Sample Inputs
-Provide the following values in the app:
 
-Median Income
 
-House Age
-
-Average Rooms
-
-Average Bedrooms
-
-Population
-
-Average Occupancy
-
-Latitude
-
-Longitude
-
-And the app will predict the Median House Value 💵.
-
-Tech Stack
-Python
-
-scikit-learn
-
-pandas
-
-numpy
-
-Live Demo
-Try the app online 👉
-Streamlit App
-
-pgsql
-Copy code
-
-Streamlit
