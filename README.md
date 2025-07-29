@@ -4,7 +4,7 @@ This project predicts the **median house price** in California using user-provid
 
 ---
 
-To run locally
+   To run locally
 
 1. Clone Repository
 ```bash
@@ -61,4 +61,4 @@ Streamlit
 
  Live Demo
 Try the app online 👉
-Streamlit App (https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
+Streamlit App <a href="https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/" target="_blank">Click here to open the Streamlit App</a>
