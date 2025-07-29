@@ -25,7 +25,7 @@ Alternatively:
 Copy code
 python -m streamlit run app.py
 
-# Project Structure
+** Project Structure **
 ```bash
 
 📁 california-house-valuer/
@@ -36,7 +36,7 @@ python -m streamlit run app.py
 └── regression_model.py  # Model training code
 
 
-# Sample Inputs
+** Sample Inputs **
 Provide the following values in the app:
 
 Median Income
@@ -51,7 +51,7 @@ Longitude
 And the app will predict the Median House Value 💵.
 
 
-# Tech Stack
+** Tech Stack **
 
 Python
 scikit-learn
@@ -60,4 +60,4 @@ numpy
 Streamlit
 
  # Live Demo
-🔗 [Live App on Streamlit](https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
+🔗https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/
