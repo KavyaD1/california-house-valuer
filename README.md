@@ -61,4 +61,4 @@ Streamlit
 
  Live Demo
 Try the app online 👉
-Streamlit App https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/ 
+Streamlit App (https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
