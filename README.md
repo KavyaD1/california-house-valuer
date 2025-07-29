@@ -60,5 +60,4 @@ numpy
 Streamlit
 
  Live Demo
-Try the app online 👉
-Streamlit App <a href="https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/" target="_blank">Click here to open the Streamlit App</a>
+🔗 [Live App on Streamlit](https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
