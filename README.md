@@ -1,63 +1,18 @@
-# 🏠 California Housing Price Predictor
 
-This project predicts the **median house price** in California using user-provided inputs and a trained **Linear Regression** model. It features a clean **Streamlit** UI and is based on the California Housing Dataset.
+# California House Valuer 🏠
 
----
+This project estimates California house prices using machine learning and Streamlit.
 
-# To run locally
+## 🔗 Live Demo
 
-1. Clone Repository
-```bash
-git clone https://github.com/KavyaD1/california-house-valuer.git
-cd california-house-valuer
+👉 [Click here to try the app](https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/)
 
- 2. Install Dependencies
-```bash
-Copy code
-pip install -r requirements.txt
-
-Run the App
-```bash
-Copy code
-streamlit run app.py
-Alternatively:
-```bash
-Copy code
-python -m streamlit run app.py
-
-** Project Structure **
-```bash
-
-📁 california-house-valuer/
-├── app.py               # Streamlit app UI
-├── model.pkl            # Trained ML model
-├── README.md            # Documentation
-├── requirements.txt     # Project dependencies
-└── regression_model.py  # Model training code
-
-
-** Sample Inputs **
-Provide the following values in the app:
-
-Median Income
-House Age
-Average Rooms
-Average Bedrooms
-Population
-Average Occupancy
-Latitude
-Longitude
-
-And the app will predict the Median House Value 💵.
-
-
-** Tech Stack **
-
-Python
-scikit-learn
-pandas
-numpy
-Streamlit
-
- # Live Demo
-🔗https://california-house-valuer-bnhdre2zfdrzrfh2wmirwe.streamlit.app/
+## 🧾 Project Structure
+california-house-valuer/
+├── data/
+│ └── housing.csv
+├── model/
+│ └── house_model.pkl
+├── app.py
+├── README.md
+├── requirements.txt
